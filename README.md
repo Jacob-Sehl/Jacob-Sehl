@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @sehljacob
-- 👀 I’m interested in machine learning and procedural animation
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me https://x.com/jacob_sehl
+# Jacob Sehl
+
+Software developer focused on systems programming and machine learning.
+
+### Current Focus
+- 🦀 Rust & WebAssembly
+- 🔧 Embedded C
+- 🤖 Machine Learning
+- 🎨 Procedural Animation
+
+### Connect
+[![Twitter](https://img.shields.io/badge/Twitter-@jacob_sehl-1DA1F2)](https://x.com/jacob_sehl)
 
 <!---
 sehljacob/sehljacob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
