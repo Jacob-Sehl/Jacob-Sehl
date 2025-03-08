@@ -1,6 +1,6 @@
 # Jacob Sehl
 
-Software developer focused on systems programming and machine learning.
+Software developer interested in systems programming and machine learning.
 
 ### Current Focus
 - 🦀 Rust & WebAssembly
