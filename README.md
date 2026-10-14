@@ -3,6 +3,7 @@
 Software developer interested in systems programming and machine learning.
 
 ### Current Focus
+- ⓙ JavaScript & React
 - 🦀 Rust & WebAssembly
 - 🔧 Embedded C
 - 🤖 Machine Learning
